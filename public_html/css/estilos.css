@@ -1,0 +1,95 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 3, 2017, 6:48:01 PM
+    Author     : 00139155
+*/
+#cabecera{
+    /*Aplicando tipo, aliniacion y tamaño de letras a la cabecera*/
+    font-family: forte;
+    font-size: 40px;
+    text-align: center;
+}
+
+ul li {
+    
+    list-style-type: none;
+        background-image: url("https://2.bp.blogspot.com/-4ARdGtco9aI/VtsffIgATTI/AAAAAAAABPg/dO3cVXZ94D4/s400/flowers-tumblr-photography-quotes%25286%2529.jpg");
+    display: inline;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    }
+    #menu{
+              
+
+        text-align: center;
+        color: 	#FF8C00;
+    }
+    #cuerpo{
+        text-align: center;
+        font-family: forte;
+        font-size: 20px;
+    }
+    #pie{
+        background: #800000;
+        text-align: center;
+        
+    }
+    a:hover {
+        color: white;
+        font-size: 28px;
+    }
+    a{
+        text-decoration: none;
+    }
+    form{
+        /*centrando el formulario y poniendo borde*/
+        background-color: white;
+        margin: 0 auto;
+        width: 800px;
+        padding: 1em;
+        border: 2px solid #000 ;
+        border-radius: 1em;
+        
+    }
+    for div{
+        margin-top: 2em;
+        
+    }
+    a:link {
+        color:black
+    }
+    a:visited{
+        color:#800000
+    }
+    a:active{
+        color: darkcyan
+    }
+    label{
+        display: inline-block;
+        width: 100px;
+        text-align: right;
+        
+    }
+    #jp{
+        text-align: center;
+    }
+    imput,textArea{
+        font:forte;
+        width: 100px;
+    }
+    imput:focus, textArea:focus{
+        border-color: red;
+    }
+    textarea{
+        vertical-align: top;
+    }
+    #fondo{
+        background:black;
+        
+    }
